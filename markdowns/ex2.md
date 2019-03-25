@@ -13,4 +13,6 @@ On doit pouvoir réaliser les opérations suivantes sur la liste :
 
 Un menu est a disposition de l'utilisateur pour choisir l'opération désirée.
 
+## Exemple de liste de liste
+L'exemple est basé sur des mots du dictionnaire.
 ![Liste de liste](images/liste_de_liste.jpg)
